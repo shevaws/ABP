@@ -309,15 +309,15 @@ Setiap kali proses berhasil dilakukan, aplikasi akan menampilkan notifikasi loka
 
 ## 3. Tampilan Galeri
 
-![Tampilan Galeri](SS/3.jpeg)
+![Tampilan Galeri](SS/5.jpeg)
 
 ## 4. Tampilan Notifikasi
 
-![Tampilan Notifikasi](SS/4.jpeg)
+![Tampilan Notifikasi](SS/6.jpeg)
 
 ## 5. Tampilan Hasil Gambar
 
-![Tampilan Hasil Gambar](SS/5.jpeg)
+![Tampilan Hasil Gambar](SS/4.jpeg)
 
 ---
 
