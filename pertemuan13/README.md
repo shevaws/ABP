@@ -27,10 +27,8 @@ Cahyo Prihantoro, S.Kom., M.Eng
 
 ## LINK REPOSITORY
 
-Tambahkan link repository GitHub milik Anda di sini:
-
 ```text
-https://github.com/username/Pertemuan13_2311102054
+https://github.com/shevaws/ABP
 ````
 
 ---

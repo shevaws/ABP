@@ -27,10 +27,8 @@ Cahyo Prihantoro, S.Kom., M.Eng
 
 ## LINK REPOSITORY
 
-Tambahkan link repository GitHub milik Anda di sini:
-
 ```text
-https://github.com/shevaws/Aplikasi-Berbasis-Proyek
+https://github.com/shevaws/ABP
 ````
 
 ---
