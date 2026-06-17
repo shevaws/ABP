@@ -230,7 +230,7 @@ Program berhasil menampilkan teks:
 * Hello World
 * Nama dan NIM mahasiswa
 
-![Hasil Praktikum](SS/modul2.jpeg)
+![Hasil Praktikum](SS/modul2.png)
 
 ---
 
@@ -338,8 +338,8 @@ Hasil penjumlahan: 8
 
 Program berhasil menjalankan konsep dasar Dart, meliputi variabel, percabangan, perulangan, list, dan fungsi.
 
-![Hasil Praktikum (Kalo Flutter)](SS/modul31.jpeg)
-![Hasil Praktikum (Kalo dart)](SS/modul32.jpeg)
+![Hasil Praktikum (Kalo Flutter)](SS/modul31.png)
+![Hasil Praktikum (Kalo dart)](SS/modul32.png)
 
 ---
 
